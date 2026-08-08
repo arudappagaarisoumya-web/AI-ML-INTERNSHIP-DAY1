@@ -1,2 +1,2 @@
-# AI-ML-INTERNSHIP-DAY1
+# AI-ML-INTERNSHIP(codomax digital solutions)
 AI and ML Internship
